@@ -1,6 +1,6 @@
 # React-Disney-Clone
 ## Demo Link:
-[Demo](https://disney-eosin.vercel.app/])
+[Demo](https://disney-eosin.vercel.app/)
 
 
 ## How to Run the Project Locally:
